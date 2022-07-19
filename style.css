@@ -69,6 +69,12 @@ a:hover {
     color: #f7b267;
 }
 
+/* download */
+.download-file img {
+    width: 35px;
+    border-radius: 50%;
+}
+
 /* kontak */
 .kontak-info img {
     width: 50px;
