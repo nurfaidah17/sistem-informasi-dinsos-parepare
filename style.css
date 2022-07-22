@@ -51,6 +51,12 @@
     color: #fff;
 }
 
+/* profil */
+.profil-pejabat img {
+    width: 200px;
+    border: #000;
+}
+
 /* berita */
 .main-judul {
     color: black;
@@ -73,6 +79,20 @@ a:hover {
 .download-file img {
     width: 35px;
     border-radius: 50%;
+}
+
+/* Suara Aduan */
+.accordion-button {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.accordion-body {
+    font-size: 18px;
+}
+
+.footer-aduan {
+    font-size: 12px;
 }
 
 /* kontak */
@@ -98,6 +118,3 @@ a:hover {
 .main-footer-menu .social-media:hover {
     background-image: #666;
 }
-
-/* INFORMASI */
-
