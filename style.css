@@ -84,6 +84,10 @@ a:hover {
     color: #f7b267;
 }
 
+#berita .btn {
+    background-color: #bc3908;
+}
+
 /* download */
 .download-file img {
     width: 35px;
