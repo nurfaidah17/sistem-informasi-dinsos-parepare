@@ -57,6 +57,15 @@
     border: #000;
 }
 
+/* profil pejabat */
+.profil-pejabat-dinsos .card { 
+    border: 0;
+}
+
+.profil-pejabat-dinsos .card-img-top { 
+    height: 310px;
+}
+
 /* berita */
 .main-judul {
     color: black;
