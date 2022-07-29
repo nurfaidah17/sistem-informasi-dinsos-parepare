@@ -42,15 +42,6 @@
     }
 }
 
-/* jumbotron */
-.banner {
-    background: url(img/kantor1.png);
-    background-size: cover;
-    padding-top: 20%;
-    padding-bottom: 40%;
-    color: #fff;
-}
-
 /* profil */
 .profil-pejabat img {
     width: 200px;
