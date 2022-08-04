@@ -79,6 +79,17 @@ a:hover {
     background-color: #bc3908;
 }
 
+/* GALERI */
+.galeri img {
+    max-width: 100%;
+    box-shadow: 0 0 15px rgba(0, 0, 0, .3);
+    cursor: pointer;    
+}
+
+#galeri-modal .modal-img {
+    width: 100%;
+}
+
 /* download */
 .download-file img {
     width: 35px;
